@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <set>
+        <email>mama2024@gmail.com</email>
+        <password>Mama1234@</password>
+        <product>D55-594</product>
+        <cardNumber>000458070098712</cardNumber>
+        <expireM>12</expireM>
+        <expireY>28</expireY>
+        <securityCode>089</securityCode>
+    </set>
+</config>
